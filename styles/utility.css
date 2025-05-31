@@ -5,6 +5,18 @@
     border: solid violet
 }
 
+.flex{
+    display: flex;
+}
+
+.grid{
+    display: grid;
+}
+
+.gap-1{
+    gap: 1rem;
+}
+
 .py-base {
     padding-block: var(--py-base);
 }
