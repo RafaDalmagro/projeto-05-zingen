@@ -49,12 +49,13 @@ html {
     line-height: 1.6;
     color: var(--text-color-primary);
 
-    overflow-x: hidden;
+
     scroll-behavior: smooth;
 }
 
 body {
     background-color: var(--bg-color);
+    overflow-x: hidden;
 }
 
 h1,
@@ -83,7 +84,7 @@ a {
     color: inherit;
 }
 
-a:hover{
+a:hover {
     background: var(--brand-gradient);
 
     -webkit-background-clip: text;
@@ -95,7 +96,7 @@ ul[role="list"] {
     list-style: none;
 }
 
-img{
+img {
     width: 100%;
     display: inline-block;
 }
