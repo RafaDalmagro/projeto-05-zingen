@@ -1,5 +1,5 @@
 #about{
-    background-color: var(--surfacve-color);  
+    background-color: var(--surface-color);  
 
     & .even-columns{
         gap: 2rem;
